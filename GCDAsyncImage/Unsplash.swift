@@ -30,7 +30,6 @@ struct Unsplash {
         "https://images.unsplash.com/photo-1484851050019-ca9daf7736fb?dpr=2&auto=format&fit=crop&w=1199&h=800&q=80&cs=tinysrgb&crop=",
         "https://images.unsplash.com/photo-1485795959911-ea5ebf41b6ae?dpr=2&auto=format&fit=crop&w=1199&h=790&q=80&cs=tinysrgb&crop=",
         "https://images.unsplash.com/photo-1463432786691-8ec0615f2dfe?dpr=2&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=",
-        "https://images.unsplash.com/photo-1471109880861-75a04f9b7833?dpr=2&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=",
         "https://images.unsplash.com/photo-1484100356142-db6ab6244067?dpr=2&auto=format&fit=crop&w=1199&h=907&q=80&cs=tinysrgb&crop=",
         "https://images.unsplash.com/photo-1483125078247-1a358ff363d3?dpr=2&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=",
         "https://images.unsplash.com/photo-1484244233201-29892afe6a2c?dpr=2&auto=format&fit=crop&w=1199&h=800&q=80&cs=tinysrgb&crop=",
